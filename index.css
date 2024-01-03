@@ -60,10 +60,14 @@ p.location{
     width: 100%;
     text-align: right;
     margin: 0;
+    font-size: 1.2rem;
     margin-top: -15px;
 }
 p.weather-temp{
     margin: 0;
     font-size: 1.7rem;
     margin-left: -10px;
+}
+#author{
+    font-size: 1rem;
 }
